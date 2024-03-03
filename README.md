@@ -36,7 +36,7 @@ OWASP, Web Application Vulnerability Assessment and Penetration Testing (VAPT), 
 Amazon Web Services (AWS), Microsoft Azure, Google Cloud  
   
 🐳 DevOps:  
-GitHub, GitHub Actions, Kubernetes, Docker, Jenkins, Git, GitOps, Ansible, Terraform, ArgoCD, Pulumi, Prometheus, Grafana, Elasticsearch, Loki, Cilium  
+GitHub, GitHub Actions, Kubernetes, Docker, Jenkins, Git, GitOps, Ansible, Terraform, ArgoCD, Pulumi, Prometheus, Grafana, Elasticsearch, Loki, Cilium, Traefik, Nginx
   
 💻 Programming and Frameworks:  
 JavaScript, PHP, Python, Java, Bash, Node.js, React.js, Nest.js, Express.js, Flask, Spring Boot, Laravel, CodeIgniter, PHP Zend, GraphQL  
