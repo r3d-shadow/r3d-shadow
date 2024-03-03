@@ -46,10 +46,3 @@ MySQL, MongoDB, DocumentDB, PostgreSQL
   
 🛠️ Others:  
 Microsoft Office, Jira, Web Scraping
-
-<table>
-  <tr>
-    <td>You're visitor</td>
-    <td><a href="https://github.com/redsh4d0w"><img src="https://profile-counter.glitch.me/redsh4d0w/count.svg" alt="Counter" /></a></td>
-  </tr>
-</table>
